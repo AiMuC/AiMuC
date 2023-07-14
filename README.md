@@ -2,5 +2,5 @@
 
 ### Hi~ 👋
 
-- :orange_book: Php小白进化中呜呜呜~~~
+- :orange_book: php/golang
 - :meat_on_bone: 肉食爱好者
